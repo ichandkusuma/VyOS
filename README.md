@@ -1,7 +1,7 @@
 # VyOS
 Koleksi VyOS
 
-#VyOS reset configuration to default
+**#VyOS reset configuration to default**
 configure
 load /opt/vyatta/etc/config.boot.default
 commit
